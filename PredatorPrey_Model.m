@@ -1,4 +1,4 @@
-function[] = Q4_Mask_version(InitpopDensity, lifeSpan, foodDecay, foodRespawnRate, localisationQuadrant)
+function[] = PredatorPrey_Model(InitpopDensity, lifeSpan, foodDecay, foodRespawnRate, localisationQuadrant)
 
 
 %% Draft 3 - 29 sep  
